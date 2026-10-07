@@ -1,0 +1,13 @@
+git init (inizializzo la cartella del progetto. 
+	Verrà creata una cartella nascosta dove 
+	verranno tracciati modifiche e versioni 
+	del progetto) 
+
+git add (aggiungo del materiale, sia esso
+	 un file o una intera cartella, e chiedo a
+	 git di gestirlo perché possa essere parte del 
+	progetto)
+
+git commit (creo una nuova versione del progetto basandomi sui file puntati da git. 
+	   Tra le sue coordinate notiamo "-m", 
+	   che serve ad aggiungere un commento sulla versione da creare.)
