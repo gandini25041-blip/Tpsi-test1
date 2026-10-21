@@ -18,4 +18,7 @@ git log (mi restituisce la cronologia del commit, e quindi
 	versione)
 
 git reset (comando che mi permette di tornare ad una
-	specifica revisione del codice. Può essere irreersibile)
+	specifica revisione del codice. Può essere irrersibile)
+
+git restore (se invocato riporta il file selezionato 
+			all'ultima versione committata)
