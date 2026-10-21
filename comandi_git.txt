@@ -22,3 +22,8 @@ git reset (comando che mi permette di tornare ad una
 
 git restore (se invocato riporta il file selezionato 
 			all'ultima versione committata)
+
+git config (Può essere utilizzato per configurare le 
+			informazioni base di git. Nel nostro caso è
+			stato usato per modificare nome utente e email
+			dello sviluppatore)
