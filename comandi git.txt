@@ -11,3 +11,11 @@ git add (aggiungo del materiale, sia esso
 git commit (creo una nuova versione del progetto basandomi sui file puntati da git. 
 	   Tra le sue coordinate notiamo "-m", 
 	   che serve ad aggiungere un commento sulla versione da creare.)
+
+git log (mi restituisce la cronologia del commit, e quindi
+	delle versioni create. La cronologia parte del
+	commit più recent fino a tornare alla prima
+	versione)
+
+git reset (comando che mi permette di tornare ad una
+	specifica revisione del codice. Può essere irreersibile)
